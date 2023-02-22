@@ -7,10 +7,7 @@
 <a href="https://www.instagram.com/kayky_brenner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
   
-  <div aling="center">
-  <a href="https://www.gmail.com/kaykybrenner14@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  </div>
-
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   
   <div align="center">  
