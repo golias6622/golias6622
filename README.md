@@ -6,3 +6,26 @@
 <div align="center">  
 <a href="https://www.instagram.com/kayky_brenner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+  
+  <div aling="center">
+  <a href="https://www.gmail.com/kaykybrenner14@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=golias6622&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kayky Brenner github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golias6622&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+  ### Main skills:
+![Node.c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+  
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=golias6622&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+  
+   <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{golias6622}/count.svg" /></p> 
+<br></div>
