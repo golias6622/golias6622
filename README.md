@@ -18,6 +18,11 @@
   ### Main skills:
 ![Node.c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
   
+  ### Tools:
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+  
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=golias6622&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
